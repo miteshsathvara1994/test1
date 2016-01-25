@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+ul
+{
+	padding: 0px;
+	list-style-type: none;
+	margin: 0px;
+}
+li {
+    display: inline-block;
+	    margin-left: -4px;
+}
+
+li a{
+    display: inline-block;
+	padding:30px;
+}
+.back_green
+{
+	background-color: #92CE0A;
+}
+.back_yellow
+{
+	background-color: #FFE202;
+}
+.back_blue
+{
+	background-color: #0052DA;
+}
+.back_orange
+{
+	background-color: #FF7F00;
+}
+.back_skyblue
+{
+	background-color: #04BACF;
+}

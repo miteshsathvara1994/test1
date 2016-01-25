@@ -1,0 +1,125 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+}
+
+#header_div {
+	width: 1088px;
+	margin: auto;
+	height: 100px;
+}
+
+#menu {
+	float: left;
+}
+
+.menu_div {
+	background-color: yellowgreen;
+	border: none;
+	color: white;
+	padding: 1px 43px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 17px;
+	margin: -1px -2px;
+	cursor: pointer;
+}
+
+#img_logo {
+	width: 28%;
+	float: left;
+	margin-left: 57px;
+	margin-top: 29px;
+}
+
+#main {
+	width: 1088px;
+	margin: auto;
+	height: 1122px;
+	color: blue;
+	background-color: white;
+}
+
+#left {
+	width: 50%;
+	float: left;
+	background-color: white;
+	height: 850px;
+	margin-left: 30px;
+}
+
+#right {
+	width: 50%;
+	float: right;
+}
+
+#donate {
+	    background-color: #FF5241;
+    height: 71px;
+    width: 323px;
+    margin-left: 152px;
+    margin-top: -917px;
+    PADDING: 7px;
+}
+
+ul.a {
+	list-style-image: url("images/marker.png");
+}
+
+ul.b {
+	list-style-image: url("images/marker1.png");
+}
+
+#right_ul_div {
+	color: black;
+	margin-left: -16px;
+	margin-top: -47px;
+}
+
+#bottom_ul_div {
+	color: black;
+	margin-left: -13px;
+	margin-top: 6px;
+}
+
+#vacancies {
+	background-color: white;
+	height: 555px;
+}
+
+#text_blue {
+	color: blue;
+}
+
+.button {
+	background-color: #97CC1E;;
+	border: none;
+	color: white;
+	padding: 10px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+#footer_div {
+	background-color: white;
+	width: 1088px;
+	margin: auto;
+	height: 170px;
+}
+
+#footer_left {
+	width: 50%;
+	float: left;
+}
+
+#footer_left {
+	width: 50%;
+	float: right;
+	margin-top: 61px;
+}

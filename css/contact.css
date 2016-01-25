@@ -1,0 +1,103 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+}
+
+#header_div {
+	width: 1088px;
+	margin: auto;
+	height: 100px;
+}
+
+#menu {
+	float: left;
+}
+
+.menu_div {
+	background-color: yellowgreen;
+	border: none;
+	color: white;
+	padding: 1px 43px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 17px;
+	margin: -1px -2px;
+	cursor: pointer;
+}
+
+#img_logo {
+	width: 28%;
+	float: left;
+	margin-left: 57px;
+	margin-top: 29px;
+}
+
+#contact_div {
+	background-color: white;
+	height: 100px;
+	width: 1088px;
+	margin: auto;
+}
+
+#address {
+	background-color: yellow;
+	height: 100px;
+	width: 1088px;
+	margin: auto;
+}
+
+#address1 {
+	width: 50%;
+	height: 420px;
+	background-color: #FFFFFF;
+	float: left;
+}
+
+#address2 {
+	width: 50%;
+	height: 420px;
+	background-color: #FFFFFF;
+	float: right;
+}
+.readmore
+{
+background-color: #97CC1E;
+    border: none;
+    float: right;
+    color: white;
+    padding: 9px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    margin-top: 16px;
+}
+#set_icon_footer
+{
+	float: right;
+    margin-top: 52px;
+    margin-right: 33px;
+	
+}
+#footer_div {
+	background-color: white;
+	width: 1088px;
+	margin: auto;
+	height: 170px;
+}
+
+#footer_right {
+	width: 50%;
+	float: right;
+}
+
+#footer_left {
+	    width: 50%;
+    float: right;
+    margin-top: 61px;
+    margin-right: -25px;
+}

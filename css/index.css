@@ -1,0 +1,301 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	
+}
+#main
+{
+	background-color: #FFFFFF
+}
+#header_div {
+	width: 1088px;
+	margin: auto;
+	height: 100px;
+}
+
+#slider_div {
+	background-color: #FFFFFF;
+	width: 1088px;
+	margin: auto;
+	height: 450px;
+}
+
+#left_div {
+	width: 50%;
+	float: left;
+}
+
+#right_div {
+	width: 50%;
+	float: right;
+}
+
+#details_div {
+	width: 1088px;
+	margin: auto;
+	background-color: #FFFFFF;
+	height: 300px;
+}
+
+#first {
+	width: 200px;
+	float: left;
+	/* margin: 26px; */
+	margin-left: 53px;
+	margin-right: 53px;
+}
+
+#sub_first {
+	background-color: #04BACF;
+	height: 45px;
+	color: #FFFFFF;
+}
+
+#sub1_first {
+	background-color: #F8F8F8;
+	height: 206px;
+}
+
+#second {
+	width: 200px;
+	float: left;
+	/* margin: 1px; */
+	margin-right: -9px;
+}
+
+#sub_second {
+	background-color: #04BACF;
+	height: 45px;
+	color: #FFFFFF;
+}
+
+#sub1_second {
+	background-color: #F8F8F8;
+	height: 206px;
+}
+
+#third {
+	width: 200px;
+	float: left;
+	margin-left: 63px;
+	margin-right: 22px;
+}
+
+#sub_third {
+	background-color: #04BACF;
+	height: 45px;
+	color: #FFFFFF;
+}
+
+#sub1_third {
+	background-color: #F8F8F8;
+	height: 206px;
+}
+
+#fourth {
+	width: 200px;
+	float: left;
+	margin-left: 33px;
+}
+
+#sub_fourth {
+	background-color: #04BACF;
+	height: 45px;
+	color: #FFFFFF;
+}
+
+#sub1_fourth {
+	background-color: #F8F8F8;
+	height: 206px;
+}
+
+#details1_div {
+	width: 1088px;
+	margin: auto;
+	background-color: #FFFFFF;
+	height: 346px;
+}
+
+#first1 {
+	width: 200px;
+    float: left;
+    /* margin: 26px; */
+    margin-left: 53px;
+    margin-right: 53px;
+    margin-top: 5px;
+}
+
+#details_sub_first1 {
+	background-color: #92CE0A;
+	height: 250px;
+}
+
+#second2 {
+	width: 200px;
+	float: left;
+	/* margin: 1px; */
+	margin-right: -8px;
+	margin-top: 5px;
+}
+
+#details_sub_second2 {
+	background-color: #FFE202;
+	height: 250px;
+}
+
+#third3 {
+	width: 200px;
+	float: left;
+	margin-left: 63px;
+	margin-right: 38px;
+	margin-top: 5px;
+}
+
+#details_sub_third3 {
+	background-color: #0052DA;
+	height: 250px;
+}
+
+#fourth4 {
+	width: 200px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+#details_sub_fourth4 {
+	background-color: #FF7F00;
+	height: 250px;
+}
+
+#bottom_div {
+	background-color: #FFFFFF;
+	width: 1088px;
+	margin: auto;
+	height: 300px;
+}
+
+#bottom_left {
+	margin: -13px;
+	width: 50%;
+	float: left;
+}
+
+#bottom_left {
+	width: 50%;
+	float: right;
+}
+
+#footer_div {
+	background-color: #FFFFFF;
+	width: 1088px;
+	margin: auto;
+	height: 170px;
+}
+
+#footer_left {
+	width: 50%;
+	margin-left: 31px;
+	
+}
+
+#footer_right {
+	width: 50%;
+	float: right;
+	margin-top: 61px;
+}
+
+#img_logo {
+	width: 28%;
+	float: left;
+	margin-left: 57px;
+	margin-top: 29px;
+}
+
+#menu {
+	float: left;
+	margin-left: 300px;
+	margin-top: -76px;
+}
+
+.menu_div {
+	background-color: yellowgreen;
+	border: none;
+	color: white;
+	padding: 1px 43px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 17px;
+	margin: -1px -2px;
+	cursor: pointer;
+}
+
+#readmore {
+	margin: 104px;
+	float: left;
+	background-color: greenyellow;
+	/* height: 50px; */
+	width: 78px;
+	color: white;
+}
+.button {
+       background-color: #97CC1E;
+    border: none;
+    float: right;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 21px;
+    cursor: pointer;
+    margin-top: 45px;
+}
+.button1 {
+        background-color: #97CC1E;
+    border: none;
+    float: right;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    float: left;
+    margin-left: 350px;
+}
+
+#set_icon_footer
+{
+	float: right;
+	margin-right: -470px;
+}
+.readmore
+{
+background-color: #97CC1E;
+    border: none;
+    float: right;
+    color: white;
+    padding: 9px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    margin-top: 16px;
+}
+#donate {
+	    background-color: #FF5241;
+    height: 71px;
+    width: 323px;
+    margin-left: 152px;
+    margin-top: 28px;
+    padding: 6px;
+}
+
+>
